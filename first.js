@@ -89,3 +89,5 @@ const checkWinner = () => {
 
 newGameBtn.addEventListener("click", resetGame);
 resetBtn.addEventListener("click", resetGame);
+
+alert("Hello welcome to Akshat's game ");
